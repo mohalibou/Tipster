@@ -1,6 +1,10 @@
 # Tipster
 
 Simple and intuitive tip calculator app.
+<a href="https://apps.apple.com/us/app/tipster-tip-calculator/id1623090418?platform=iphone">
+<img src="app-store.png">
+</a>
+
 
 ## Frameworks:
 - SwiftUI
