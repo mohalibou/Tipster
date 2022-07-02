@@ -22,4 +22,5 @@ Simple and intuitive tip calculator app.
 </p>
 <p float="left">
   <img src="image4.png" width="250">
+  <img src="image5.png" width="250">
 </p>
