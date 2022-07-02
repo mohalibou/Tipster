@@ -17,4 +17,5 @@ Simple and intuitive tip calculator app.
 ## Images:
 <p float="left">
   <img src="image1.png" width="300">
+  <img src="image2.png" width="300">
 </p>
