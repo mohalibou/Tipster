@@ -5,6 +5,7 @@ Simple and intuitive tip calculator app.
 ## Frameworks:
 - SwiftUI
 - MessageUI
+- Combine
 
 ## Features:
 - Calculate tips.
