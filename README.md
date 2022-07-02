@@ -13,3 +13,6 @@ Simple and intuitive tip calculator app.
 - Can change currency symbol.
 - Can change accent color of app to suit person preferences.
 - Supports light and dark mode.
+
+## Images:
+![This is an image](image1.png)
