@@ -15,4 +15,4 @@ Simple and intuitive tip calculator app.
 - Supports light and dark mode.
 
 ## Images:
-<img src="image1.png" width="100">
+<img src="image1.png" width="300">
