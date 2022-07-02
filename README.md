@@ -6,7 +6,6 @@ Simple and intuitive tip calculator app.
 <img src="app-store.png" width="150">
 </a>
 
-
 ### Frameworks:
 - SwiftUI
 - MessageUI
